@@ -12,10 +12,10 @@ Sono Nicolò, Junior Full Stack Web Developer. In questo profilo GitHub potete t
 </div>
  <h3>Competenze</h3>
 
-Frontend <br/> <br/> [![My Skills](https://skills.thijs.gg/icons?i=html)](https://skills.thijs.gg) [![My Skills](https://skills.thijs.gg/icons?i=css)](https://skills.thijs.gg) [![My Skills](https://skills.thijs.gg/icons?i=sass)](https://skills.thijs.gg) [![My Skills](https://skills.thijs.gg/icons?i=bootstrap)](https://skills.thijs.gg) <br/>[![My Skills](https://skills.thijs.gg/icons?i=javascript)](https://skills.thijs.gg) [![My Skills](https://skills.thijs.gg/icons?i=vue)](https://skills.thijs.gg) [![My Skills](https://skills.thijs.gg/icons?i=vite)](https://skills.thijs.gg) <br/><br/> Backend <br/><br/> [![My Skills](https://skills.thijs.gg/icons?i=mysql,php,laravel,git)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html)](https://skills.thijs.gg) [![My Skills](https://skills.thijs.gg/icons?i=css)](https://skills.thijs.gg) [![My Skills](https://skills.thijs.gg/icons?i=sass)](https://skills.thijs.gg) [![My Skills](https://skills.thijs.gg/icons?i=bootstrap)](https://skills.thijs.gg) <br/>[![My Skills](https://skills.thijs.gg/icons?i=javascript)](https://skills.thijs.gg) [![My Skills](https://skills.thijs.gg/icons?i=vue)](https://skills.thijs.gg) [![My Skills](https://skills.thijs.gg/icons?i=vite)](https://skills.thijs.gg) <br/><br/> [![My Skills](https://skills.thijs.gg/icons?i=mysql,php,laravel,git)](https://skills.thijs.gg)
 
 
-| [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nicomanunta&langs_count=5&theme=tokyonight)]() | 
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nicomanunta&langs_count=5&theme=tokyonight)]() 
 
 
 
