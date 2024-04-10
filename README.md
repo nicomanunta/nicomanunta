@@ -1,6 +1,6 @@
 # Benvenuti nel mio profilo GitHub!
 
-Mi chiamo Nicolò, Junior Full Stack Web Developer. In questo profilo GitHub potete trovare alcuni dei progetti a cui ho lavorato.
+Mi chiamo Nicolò, sono un Junior Full Stack Web Developer. In questo profilo GitHub potete trovare alcuni dei progetti a cui ho lavorato.
 
 <div>
   <h3>Contatto LinkedIn</h3>
