@@ -1,10 +1,18 @@
 # Benvenuti nel mio profilo GitHub!
 
-Sono Nicolò, un junior full stack web developer. In questo profilo GitHub potete trovare alcuni dei progetti a cui ho lavorato.
+Sono Nicolò, Junior Full Stack Web Developer. In questo profilo GitHub potete trovare alcuni dei progetti a cui ho lavorato.
 
-## Contatti
-- [LinkedIn](https://www.linkedin.com/in/il-tuo-nome/): [![LinkedIn](https://image.flaticon.com/icons/png/512/174/174857.png)](https://www.linkedin.com/in/il-tuo-nome/)
-
-## Linguaggi e Tecnologie
-![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) ![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) ![SCSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg) ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) ![Vue.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg) ![Vite.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg) ![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg) ![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg) ![Laravel](https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg) ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg) ![GitHub](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg)
+<div>
+  <h3>CONTATTI</h3>
+  <span>
+    <a style="text-decoration:none" href="https://www.linkedin.com/in/il-tuo-nome/">
+      <img align="center" alt="Nicolò Manunta LinkedIn" width="30px" src="https://github.com/adityakamath16/adityakamath16/blob/master/images/connect_with_me_images/linkedin.svg" />
+    </a>
+  </span>
+   <span>
+    <a style="text-decoration:none" href="mailto:il-tuo-indirizzo-email@example.com">
+      <img  align="center" alt="Nicolò Manunta Email" width="35px" src="https://g-blog.net/wp-content/uploads/2021/11/pii_email_e188285bdb71eb7570eb.png" />
+    </a>
+  </span>
+</div>
 
