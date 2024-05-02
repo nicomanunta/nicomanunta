@@ -19,20 +19,20 @@ Mi chiamo Nicolò, sono un Junior Full Stack Web Developer. In questo profilo Gi
  <h3>Competenze</h3>
  <br>
 <div style="display: flex; justify-content: center;">
- <img align="center" alt="html" width="30px" src="https://github.com/nicomanunta/icon/blob/main/html5.svg" />
- <img align="center" alt="css" width="30px" src="https://github.com/nicomanunta/icon/blob/main/css3-alt.svg" />
- <img align="center" alt="scss" width="30px" src="https://github.com/nicomanunta/icon/blob/main/sass.svg" />
- <img align="center" alt="bootstrap" width="35px" src="https://github.com/nicomanunta/icon/blob/main/bootstrap.svg" />
+ <img align="center" alt="html" width="40px" src="https://github.com/nicomanunta/icon/blob/main/html5.svg" />
+ <img align="center" alt="css" width="40px" src="https://github.com/nicomanunta/icon/blob/main/css3-alt.svg" />
+ <img align="center" alt="scss" width="40px" src="https://github.com/nicomanunta/icon/blob/main/sass.svg" />
+ <img align="center" alt="bootstrap" width="45px" src="https://github.com/nicomanunta/icon/blob/main/bootstrap.svg" />
 </div>
 <br>
 <div style="display: flex; justify-content: center;">
- <img align="center" alt="js" width="30px" src="https://github.com/nicomanunta/icon/blob/main/js.svg" />
- <img align="center" alt="vue" width="30px" src="https://github.com/nicomanunta/icon/blob/main/vuejs.svg" />
+ <img align="center" alt="js" width="40px" src="https://github.com/nicomanunta/icon/blob/main/js.svg" />
+ <img align="center" alt="vue" width="40px" src="https://github.com/nicomanunta/icon/blob/main/vuejs.svg" />
 </div>
 <br>
 <div style="display: flex; justify-content: center;">
- <img align="center" alt="php" width="30px" src="https://github.com/nicomanunta/icon/blob/main/php.svg" />
- <img align="center" alt="laravel" width="30px" src="https://github.com/nicomanunta/icon/blob/main/laravel.svg" />
+ <img align="center" alt="php" width="45px" src="https://github.com/nicomanunta/icon/blob/main/php.svg" />
+ <img align="center" alt="laravel" width="40px" src="https://github.com/nicomanunta/icon/blob/main/laravel.svg" />
 </div>
 <br>
 <a style="text-decoration:none" href="https://github.com/stars/nicomanunta/lists/top-progetti">
