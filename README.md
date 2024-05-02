@@ -16,7 +16,7 @@ Mi chiamo Nicolò, sono un Junior Full Stack Web Developer. In questo profilo Gi
   </span>
 </div>
  <h3>Competenze</h3>
-![Icona HTML]([https://raw.githubusercontent.com/username/repository/master/path/to/file.svg](https://raw.githubusercontent.com/nicomanunta/icon/main/html5.svg?token=GHSAT0AAAAAACM7GDCAQLAYLDAOZLXWIK5YZRTSO2Q))
+![Icona HTML]([https://raw.githubusercontent.com/username/repository/master/path/to/file.svg](https://raw.githubusercontent.com/nicomanunta/icon/main/html5.svg?token=GHSAT0AAAAAACM7GDCAQLAYLDAOZLXWIK5YZRTSO2Q)
 ![Icona CSS](https://raw.githubusercontent.com/username/repository/master/path/to/file.svg)
 ![Icona SCSS](https://raw.githubusercontent.com/username/repository/master/path/to/file.svg)
 ![Icona Bootstrap](https://raw.githubusercontent.com/username/repository/master/path/to/file.svg)
