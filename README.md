@@ -17,7 +17,7 @@ Mi chiamo Nicolò, sono un Junior Full Stack Web Developer. In questo profilo Gi
 </div>
  <h3>Competenze</h3>
 <img align="center" alt="" width="30px" src="https://github.com/adityakamath16/adityakamath16/blob/master/images/Programming_languages/logo-html-5.png" />
-<img align="center" alt="" width="30px" src="" />
+<img align="center" alt="" width="30px" src="" /> 
 <img align="center" alt="" width="30px" src="" />
 <img align="center" alt="" width="30px" src="" />
 <img align="center" alt="" width="30px" src="" />
