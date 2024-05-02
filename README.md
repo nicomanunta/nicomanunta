@@ -11,7 +11,7 @@ Mi chiamo Nicolò, sono un Junior Full Stack Web Developer. In questo profilo Gi
   <h3>Contatto LinkedIn</h3>
   <span>
     <a style="text-decoration:none" href="https://www.linkedin.com/in/nicol%C3%B2-manunta-5203332ba/">
-      <img align="center" alt="Nicolò Manunta LinkedIn" width="30px" src="https://raw.githubusercontent.com/nicomanunta/icon/main/linkedin.svg?token=GHSAT0AAAAAACM7GDCB34GPE5GXCNYQDEFAZRTSVOA" />
+      <img align="center" alt="Nicolò Manunta LinkedIn" width="30px" src="https://raw.githubusercontent.com/nicomanunta/icon/main/linkedin.svg?token=GHSAT0AAAAAACM7GDCB57FLO5XT3PXN2EHEZRTS6QQ" />
     </a>
   </span>
 </div>
