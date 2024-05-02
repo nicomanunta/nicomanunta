@@ -25,4 +25,5 @@ Mi chiamo Nicolò, sono un Junior Full Stack Web Developer. In questo profilo Gi
 <img align="center" alt="" width="30px" src="" />
 <img align="center" alt="" width="30px" src="" />
 <img align="center" alt="" width="30px" src="" />
+![Icona HTML](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/html5.svg)
 
