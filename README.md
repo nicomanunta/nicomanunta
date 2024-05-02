@@ -17,7 +17,7 @@ Mi chiamo Nicolò, sono un Junior Full Stack Web Developer. In questo profilo Gi
   </span>
 </div>
  <h3>Competenze</h3>
-<div style="display: flex; justify-content: center; padding-bottom: 20px;">
+<div style="display: flex; justify-content: center; padding-bottom: 20;">
  <img align="center" alt="html" width="30px" src="https://github.com/nicomanunta/icon/blob/main/html5.svg" />
  <img align="center" alt="css" width="30px" src="https://github.com/nicomanunta/icon/blob/main/css3-alt.svg" />
  <img align="center" alt="scss" width="30px" src="https://github.com/nicomanunta/icon/blob/main/sass.svg" />
