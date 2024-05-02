@@ -1,6 +1,7 @@
 <head>
   <!-- Altri tag head -->
   <link rel="stylesheet" href="[https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css)">
+  
 </head>
 
 # Benvenuti nel mio profilo GitHub!
@@ -16,7 +17,7 @@ Mi chiamo Nicolò, sono un Junior Full Stack Web Developer. In questo profilo Gi
   </span>
 </div>
  <h3>Competenze</h3>
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; padding-bottom: 20px;">
  <img align="center" alt="html" width="30px" src="https://github.com/nicomanunta/icon/blob/main/html5.svg" />
  <img align="center" alt="css" width="30px" src="https://github.com/nicomanunta/icon/blob/main/css3-alt.svg" />
  <img align="center" alt="scss" width="30px" src="https://github.com/nicomanunta/icon/blob/main/sass.svg" />
