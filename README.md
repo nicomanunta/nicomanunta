@@ -12,7 +12,7 @@ Mi chiamo Nicolò, sono un Junior Full Stack Web Developer. In questo profilo Gi
   <h3>Contatto LinkedIn</h3>
   <span>
     <a style="text-decoration:none" href="https://www.linkedin.com/in/nicol%C3%B2-manunta-5203332ba/">
-      <img align="center" alt="Nicolò Manunta LinkedIn" width="30px" src="https://github.com/nicomanunta/icon/blob/main/linkedin.svg" />
+      <img align="center" alt="Nicolò Manunta LinkedIn" width="40px" src="https://github.com/nicomanunta/icon/blob/main/linkedin.svg" />
     </a>
   </span>
 </div>
@@ -36,7 +36,7 @@ Mi chiamo Nicolò, sono un Junior Full Stack Web Developer. In questo profilo Gi
 </div>
 <br>
 <a style="text-decoration:none" href="https://github.com/stars/nicomanunta/lists/top-progetti">
-      <img align="center" alt="Nicolò Manunta GitHub" width="30px" src="https://github.com/nicomanunta/icon/blob/main/github.svg" />
+      <img align="center" alt="Nicolò Manunta GitHub" width="40px" src="https://github.com/nicomanunta/icon/blob/main/github.svg" />
 </a>
 
 
