@@ -16,17 +16,13 @@ Mi chiamo Nicolò, sono un Junior Full Stack Web Developer. In questo profilo Gi
   </span>
 </div>
  <h3>Competenze</h3>
-![Icona HTML](https://github.com/nicomanunta/icon/blob/main/html5.svg)
- <img align="center" alt="" width="30px" src="https://raw.githubusercontent.com/nicomanunta/icon/main/html5.svg?token=GHSAT0AAAAAACM7GDCAQLAYLDAOZLXWIK5YZRTSO2Q" />
-![Testo alternativo](https://raw.githubusercontent.com/username/repository/master/path/to/file.svg)
 
-
-![Icona CSS](https://raw.githubusercontent.com/username/repository/master/path/to/file.svg)
-![Icona SCSS](https://raw.githubusercontent.com/username/repository/master/path/to/file.svg)
-![Icona Bootstrap](https://raw.githubusercontent.com/username/repository/master/path/to/file.svg)
-![Icona Javascript](https://raw.githubusercontent.com/username/repository/master/path/to/file.svg)
-![Icona Vue.js](https://raw.githubusercontent.com/username/repository/master/path/to/file.svg)
-![Icona PHP](https://raw.githubusercontent.com/username/repository/master/path/to/file.svg)
-![Icona Laravel](https://raw.githubusercontent.com/username/repository/master/path/to/file.svg)
-
-
+ <img align="center" alt="html" width="30px" src="https://raw.githubusercontent.com/nicomanunta/icon/main/html5.svg?token=GHSAT0AAAAAACM7GDCAQLAYLDAOZLXWIK5YZRTSO2Q" />
+ <img align="center" alt="css" width="30px" src="https://raw.githubusercontent.com/nicomanunta/icon/main/css3-alt.svg?token=GHSAT0AAAAAACM7GDCBTADI4LQ2LJXZDKQ6ZRTSWGA" />
+ <img align="center" alt="scss" width="30px" src="https://raw.githubusercontent.com/nicomanunta/icon/main/sass.svg?token=GHSAT0AAAAAACM7GDCASZPQKIHWLVXYF6BEZRTSXXQ" />
+ <img align="center" alt="bootstrap" width="30px" src="https://raw.githubusercontent.com/nicomanunta/icon/main/bootstrap.svg?token=GHSAT0AAAAAACM7GDCAPUFCIB4A2G7DJXGQZRTSYXA" />
+ <img align="center" alt="js" width="30px" src="https://raw.githubusercontent.com/nicomanunta/icon/main/js.svg?token=GHSAT0AAAAAACM7GDCBSP4MCEVNWPJTI6GCZRTSY5Q" />
+ <img align="center" alt="vue" width="30px" src="https://raw.githubusercontent.com/nicomanunta/icon/main/vuejs.svg?token=GHSAT0AAAAAACM7GDCBELHDDEWLOUWYRIZMZRTSZFA" />
+ <img align="center" alt="php" width="30px" src="https://raw.githubusercontent.com/nicomanunta/icon/main/php.svg?token=GHSAT0AAAAAACM7GDCAWP6NPWS7NH6CDJJ4ZRTSZKQ" />
+ <img align="center" alt="laravel" width="30px" src="https://raw.githubusercontent.com/nicomanunta/icon/main/laravel.svg?token=GHSAT0AAAAAACM7GDCBHOXQO5VTT2PXWCY2ZRTSZVA" />
+ <img align="center" alt="github" width="30px" src="" />
