@@ -1,3 +1,8 @@
+<head>
+  <!-- Altri tag head -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+
 # Benvenuti nel mio profilo GitHub!
 
 Mi chiamo Nicolò, sono un Junior Full Stack Web Developer. In questo profilo GitHub potete trovare alcuni dei progetti a cui ho lavorato.
