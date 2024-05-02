@@ -1,7 +1,7 @@
 <head>
   <!-- Altri tag head -->
   <link rel="stylesheet" href="[https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css)">
-  
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
 </head>
 
 # Benvenuti nel mio profilo GitHub!
@@ -17,7 +17,7 @@ Mi chiamo Nicolò, sono un Junior Full Stack Web Developer. In questo profilo Gi
   </span>
 </div>
  <h3>Competenze</h3>
-<div style="display: flex; justify-content: center; padding-bottom: 20;">
+<div style="display: flex; justify-content: center; padding-bottom: 20;" class="mb-3">
  <img align="center" alt="html" width="30px" src="https://github.com/nicomanunta/icon/blob/main/html5.svg" />
  <img align="center" alt="css" width="30px" src="https://github.com/nicomanunta/icon/blob/main/css3-alt.svg" />
  <img align="center" alt="scss" width="30px" src="https://github.com/nicomanunta/icon/blob/main/sass.svg" />
@@ -31,7 +31,7 @@ Mi chiamo Nicolò, sono un Junior Full Stack Web Developer. In questo profilo Gi
  <img align="center" alt="php" width="30px" src="https://github.com/nicomanunta/icon/blob/main/php.svg" />
  <img align="center" alt="laravel" width="30px" src="https://github.com/nicomanunta/icon/blob/main/laravel.svg" />
 </div>
-<a style="text-decoration:none" href="https://github.com/nicomanunta?tab=repositories">
+<a style="text-decoration:none" href="https://github.com/stars/nicomanunta/lists/top-progetti">
       <img align="center" alt="Nicolò Manunta GitHub" width="30px" src="https://github.com/nicomanunta/icon/blob/main/github.svg" />
 </a>
 
