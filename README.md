@@ -14,5 +14,10 @@ Mi chiamo Nicolò, sono un Junior Full Stack Web Developer. In questo profilo Gi
 
 [![My Skills](https://skills.thijs.gg/icons?i=html)](https://skills.thijs.gg) [![My Skills](https://skills.thijs.gg/icons?i=css)](https://skills.thijs.gg) [![My Skills](https://skills.thijs.gg/icons?i=sass)](https://skills.thijs.gg) [![My Skills](https://skills.thijs.gg/icons?i=bootstrap)](https://skills.thijs.gg) <br/>[![My Skills](https://skills.thijs.gg/icons?i=javascript)](https://skills.thijs.gg) [![My Skills](https://skills.thijs.gg/icons?i=vue)](https://skills.thijs.gg) [![My Skills](https://skills.thijs.gg/icons?i=vite)](https://skills.thijs.gg) <br/><br/> [![My Skills](https://skills.thijs.gg/icons?i=php,laravel,git,mysql)](https://skills.thijs.gg) 
 
+[![My Skills](https://cdn.jsdelivr.net/npm/ionicons@5.0.0/dist/ionicons/svg/md-html.svg)](https://skills.thijs.gg) [![My Skills](https://cdn.jsdelivr.net/npm/ionicons@5.0.0/dist/ionicons/svg/logo-css3.svg)](https://skills.thijs.gg) [![My Skills](https://cdn.jsdelivr.net/npm/ionicons@5.0.0/dist/ionicons/svg/logo-sass.svg)](https://skills.thijs.gg) [![My Skills](https://cdn.jsdelivr.net/npm/ionicons@5.0.0/dist/ionicons/svg/logo-bootstrap.svg)](https://skills.thijs.gg) <br/>
+[![My Skills](https://cdn.jsdelivr.net/npm/ionicons@5.0.0/dist/ionicons/svg/logo-javascript.svg)](https://skills.thijs.gg) [![My Skills](https://cdn.jsdelivr.net/npm/ionicons@5.0.0/dist/ionicons/svg/logo-vue.svg)](https://skills.thijs.gg) [![My Skills](https://cdn.jsdelivr.net/npm/ionicons@5.0.0/dist/ionicons/svg/logo-vite.svg)](https://skills.thijs.gg) <br/><br/>
+[![My Skills](https://cdn.jsdelivr.net/npm/ionicons@5.0.0/dist/ionicons/svg/logo-php.svg)](https://skills.thijs.gg) [![My Skills](https://cdn.jsdelivr.net/npm/ionicons@5.0.0/dist/ionicons/svg/logo-laravel.svg)](https://skills.thijs.gg) [![My Skills](https://cdn.jsdelivr.net/npm/ionicons@5.0.0/dist/ionicons/svg/logo-github.svg)](https://skills.thijs.gg) [![My Skills](https://cdn.jsdelivr.net/npm/ionicons@5.0.0/dist/ionicons/svg/logo-mysql.svg)](https://skills.thijs.gg)
+
+
 
 
