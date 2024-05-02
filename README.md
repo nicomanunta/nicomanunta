@@ -16,15 +16,13 @@ Mi chiamo Nicolò, sono un Junior Full Stack Web Developer. In questo profilo Gi
   </span>
 </div>
  <h3>Competenze</h3>
-<img align="center" alt="" width="30px" src="https://github.com/adityakamath16/adityakamath16/blob/master/images/Programming_languages/logo-html-5.png" />
-<img align="center" alt="" width="30px" src="" /> 
-<img align="center" alt="" width="30px" src="" />
-<img align="center" alt="" width="30px" src="" />
-<img align="center" alt="" width="30px" src="" />
-<img align="center" alt="" width="30px" src="" />
-<img align="center" alt="" width="30px" src="" />
-<img align="center" alt="" width="30px" src="" />
-<img align="center" alt="" width="30px" src="" />
-![Icona HTML](http://www.w3.org/2000/svg)
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path fill="#ffffff" d="M0 32l34.9 395.8L191.5 480l157.6-52.2L384 32H0zm308.2 127.9H124.4l4.1 49.4h175.6l-13.6 148.4-97.9 27v.3h-1.1l-98.7-27.3-6-75.8h47.7L138 320l53.5 14.5 53.7-14.5 6-62.2H84.3L71.5 112.2h241.1l-4.4 47.7z"/></svg>
+![Icona HTML]([https://raw.githubusercontent.com/username/repository/master/path/to/file.svg](https://raw.githubusercontent.com/nicomanunta/icon/main/html5.svg?token=GHSAT0AAAAAACM7GDCAQLAYLDAOZLXWIK5YZRTSO2Q))
+![Icona CSS](https://raw.githubusercontent.com/username/repository/master/path/to/file.svg)
+![Icona SCSS](https://raw.githubusercontent.com/username/repository/master/path/to/file.svg)
+![Icona Bootstrap](https://raw.githubusercontent.com/username/repository/master/path/to/file.svg)
+![Icona Javascript](https://raw.githubusercontent.com/username/repository/master/path/to/file.svg)
+![Icona Vue.js](https://raw.githubusercontent.com/username/repository/master/path/to/file.svg)
+![Icona PHP](https://raw.githubusercontent.com/username/repository/master/path/to/file.svg)
+![Icona Laravel](https://raw.githubusercontent.com/username/repository/master/path/to/file.svg)
+
 
