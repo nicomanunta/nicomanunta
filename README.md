@@ -22,7 +22,7 @@ Mi chiamo Nicolò, sono un Junior Full Stack Web Developer. In questo profilo Gi
  <img align="center" alt="html" width="30px" src="https://github.com/nicomanunta/icon/blob/main/html5.svg" />
  <img align="center" alt="css" width="30px" src="https://github.com/nicomanunta/icon/blob/main/css3-alt.svg" />
  <img align="center" alt="scss" width="30px" src="https://github.com/nicomanunta/icon/blob/main/sass.svg" />
- <img align="center" alt="bootstrap" width="30px" src="https://github.com/nicomanunta/icon/blob/main/bootstrap.svg" />
+ <img align="center" alt="bootstrap" width="35px" src="https://github.com/nicomanunta/icon/blob/main/bootstrap.svg" />
 </div>
 <br>
 <div style="display: flex; justify-content: center;">
