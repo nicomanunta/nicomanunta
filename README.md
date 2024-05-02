@@ -25,4 +25,4 @@ Mi chiamo Nicolò, sono un Junior Full Stack Web Developer. In questo profilo Gi
  <img align="center" alt="vue" width="30px" src="https://raw.githubusercontent.com/nicomanunta/icon/main/vuejs.svg?token=GHSAT0AAAAAACM7GDCBELHDDEWLOUWYRIZMZRTSZFA" />
  <img align="center" alt="php" width="30px" src="https://raw.githubusercontent.com/nicomanunta/icon/main/php.svg?token=GHSAT0AAAAAACM7GDCAWP6NPWS7NH6CDJJ4ZRTSZKQ" />
  <img align="center" alt="laravel" width="30px" src="https://raw.githubusercontent.com/nicomanunta/icon/main/laravel.svg?token=GHSAT0AAAAAACM7GDCBHOXQO5VTT2PXWCY2ZRTSZVA" />
- <img align="center" alt="github" width="30px" src="" />
+
