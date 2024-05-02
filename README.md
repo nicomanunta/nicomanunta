@@ -16,7 +16,7 @@ Mi chiamo Nicolò, sono un Junior Full Stack Web Developer. In questo profilo Gi
   </span>
 </div>
  <h3>Competenze</h3>
-
+<div style="display: flex; justify-content: center;">
  <img align="center" alt="html" width="30px" src="https://raw.githubusercontent.com/nicomanunta/icon/main/html5.svg?token=GHSAT0AAAAAACM7GDCBRPKYAWPCQSDJ3DU2ZRTS2WA" />
  <img align="center" alt="css" width="30px" src="https://raw.githubusercontent.com/nicomanunta/icon/main/css3-alt.svg?token=GHSAT0AAAAAACM7GDCBTADI4LQ2LJXZDKQ6ZRTSWGA" />
  <img align="center" alt="scss" width="30px" src="https://raw.githubusercontent.com/nicomanunta/icon/main/sass.svg?token=GHSAT0AAAAAACM7GDCASZPQKIHWLVXYF6BEZRTSXXQ" />
@@ -25,4 +25,5 @@ Mi chiamo Nicolò, sono un Junior Full Stack Web Developer. In questo profilo Gi
  <img align="center" alt="vue" width="30px" src="https://raw.githubusercontent.com/nicomanunta/icon/main/vuejs.svg?token=GHSAT0AAAAAACM7GDCBELHDDEWLOUWYRIZMZRTSZFA" />
  <img align="center" alt="php" width="30px" src="https://raw.githubusercontent.com/nicomanunta/icon/main/php.svg?token=GHSAT0AAAAAACM7GDCAWP6NPWS7NH6CDJJ4ZRTSZKQ" />
  <img align="center" alt="laravel" width="30px" src="https://raw.githubusercontent.com/nicomanunta/icon/main/laravel.svg?token=GHSAT0AAAAAACM7GDCBHOXQO5VTT2PXWCY2ZRTSZVA" />
+</div>
 
