@@ -1,6 +1,6 @@
 <head>
   <!-- Altri tag head -->
-  <link rel="stylesheet" href="[https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css)">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
 </head>
 
 # Benvenuti nel mio profilo GitHub!
@@ -22,8 +22,3 @@ Mi chiamo Nicolò, sono un Junior Full Stack Web Developer. In questo profilo Gi
 [![My Skills](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/solid/html5.svg)](https://skills.thijs.gg) [![My Skills](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/solid/css3-alt.svg)](https://skills.thijs.gg) [![My Skills](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/sass.svg)](https://skills.thijs.gg) [![My Skills](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/bootstrap.svg)](https://skills.thijs.gg) <br/>
 [![My Skills](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/javascript.svg)](https://skills.thijs.gg) [![My Skills](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/vuejs.svg)](https://skills.thijs.gg) [![My Skills](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/vite.svg)](https://skills.thijs.gg) <br/><br/>
 [![My Skills](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/php.svg)](https://skills.thijs.gg) [![My Skills](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/laravel.svg)](https://skills.thijs.gg) [![My Skills](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/github.svg)](https://skills.thijs.gg) [![My Skills](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/svgs/brands/mysql.svg)](https://skills.thijs.gg)
-(https://cdn.jsdelivr.net/npm/ionicons@5.0.0/dist/ionicons/svg/logo-mysql.svg)](https://skills.thijs.gg)
-
-
-
-
