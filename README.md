@@ -38,7 +38,7 @@ Mi chiamo Nicolò, sono un **Full Stack Web Developer** con competenze di **UX e
 </div>
 
 ### UX/UI Design
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: between;">
  <img align="center" alt="figma" width="45px" src="https://github.com/nicomanunta/icon/blob/main/figma-color.png" />
  <img align="center" alt="zeplin" width="50px" src="https://github.com/nicomanunta/icon/blob/main/zeplin-color.png" />
  <img align="center" alt="maze" width="45px" src="https://github.com/nicomanunta/icon/blob/main/maze-color.jpeg" />
