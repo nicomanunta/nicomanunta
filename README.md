@@ -14,6 +14,7 @@ Mi chiamo Nicolò, sono un **Full Stack Web Developer** con competenze di **UX e
       <img align="center" alt="Nicolò Manunta LinkedIn" width="40px" src="https://github.com/nicomanunta/icon/blob/main/linkedin-color.png" />
     </a>
 </div>
+
 ## 🔧 Competenze
 
 ### FrontEnd
