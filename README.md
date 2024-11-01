@@ -19,29 +19,29 @@ Mi chiamo Nicolò, sono un **Full Stack Web Developer** con competenze di **UX e
 
 ### FrontEnd
 <div style="display: flex; justify-content: center;">
- <img align="center" alt="html"  width="60px" src="https://github.com/nicomanunta/icon/blob/main/html-color.png" style="margin: 0 100px;" />
- <img align="center" alt="css" width="60px" src="https://github.com/nicomanunta/icon/blob/main/css-color.png" />
- <img align="center" alt="scss" width="60px" src="https://github.com/nicomanunta/icon/blob/main/sass-color.png" />
+ <img align="center" alt="html"  width="60px" src="https://github.com/nicomanunta/icon/blob/main/html-color.png"/> &nbsp;&nbsp;&nbsp;
+ <img align="center" alt="css" width="60px" src="https://github.com/nicomanunta/icon/blob/main/css-color.png" /> &nbsp;&nbsp;&nbsp;
+ <img align="center" alt="scss" width="60px" src="https://github.com/nicomanunta/icon/blob/main/sass-color.png" /> &nbsp;&nbsp;&nbsp;
  <img align="center" alt="bootstrap" width="65px" src="https://github.com/nicomanunta/icon/blob/main/bootstrap-color.png" />
 </div>
 <br>
 <div style="display: flex; justify-content: center;">
- <img align="center" alt="js" width="60px" src="https://github.com/nicomanunta/icon/blob/main/js-color.png" />
+ <img align="center" alt="js" width="60px" src="https://github.com/nicomanunta/icon/blob/main/js-color.png" /> &nbsp;&nbsp;&nbsp;
  <img align="center" alt="vue" width="60px" src="https://github.com/nicomanunta/icon/blob/main/vuejs-color.png" />
 </div>
 
 ### Backend
 <div style="display: flex; justify-content: center;">
- <img align="center" alt="php" width="65px" src="https://github.com/nicomanunta/icon/blob/main/php1-color.png" />
- <img align="center" alt="laravel" width="60px" src="https://github.com/nicomanunta/icon/blob/main/laravel-color.png" />
- <img align="center" alt="mysql" width="60px" src="https://github.com/nicomanunta/icon/blob/main/Mysql.png" />
+ <img align="center" alt="php" width="65px" src="https://github.com/nicomanunta/icon/blob/main/php1-color.png" /> &nbsp;&nbsp;&nbsp;
+ <img align="center" alt="laravel" width="60px" src="https://github.com/nicomanunta/icon/blob/main/laravel-color.png" /> &nbsp;&nbsp;&nbsp;
+ <img align="center" alt="mysql" width="60px" src="https://github.com/nicomanunta/icon/blob/main/Mysql.png" /> &nbsp;&nbsp;&nbsp;
 </div>
 
 ### UX/UI Design
 <div style="display: flex; justify-content: center;">
- <img align="center" alt="figma" width="65px" src="https://github.com/nicomanunta/icon/blob/main/figma-color.png" />
- <img align="center" alt="zeplin" width="70px" src="https://github.com/nicomanunta/icon/blob/main/zeplin-color.png" />
- <img align="center" alt="maze" width="65px" src="https://github.com/nicomanunta/icon/blob/main/maze-color.jpeg" />
+ <img align="center" alt="figma" width="65px" src="https://github.com/nicomanunta/icon/blob/main/figma-color.png" /> &nbsp;&nbsp;&nbsp;
+ <img align="center" alt="zeplin" width="70px" src="https://github.com/nicomanunta/icon/blob/main/zeplin-color.png" /> &nbsp;&nbsp;&nbsp;
+ <img align="center" alt="maze" width="65px" src="https://github.com/nicomanunta/icon/blob/main/maze-color.jpeg" /> &nbsp;&nbsp;&nbsp;
  <img align="center" alt="miro" width="80px" src="https://github.com/nicomanunta/icon/blob/main/miro-color.png" />
  <img align="center" alt="mural" width="140px" src="https://github.com/nicomanunta/icon/blob/main/mural2-color.png" />
 </div>
