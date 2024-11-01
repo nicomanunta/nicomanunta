@@ -43,7 +43,7 @@ Mi chiamo Nicolò, sono un **Full Stack Web Developer** con competenze di **UX e
  <img align="center" alt="zeplin" width="70px" src="https://github.com/nicomanunta/icon/blob/main/zeplin-color.png" />
  <img align="center" alt="maze" width="65px" src="https://github.com/nicomanunta/icon/blob/main/maze-color.jpeg" />
  <img align="center" alt="miro" width="80px" src="https://github.com/nicomanunta/icon/blob/main/miro-color.png" />
- <img align="center" alt="mural" width="140px" src="https://github.com/nicomanunta/icon/blob/main/mural-color.png" />
+ <img align="center" alt="mural" width="65px" src="https://github.com/nicomanunta/icon/blob/main/mural2-color.png" />
 </div>
 
 ## 📂 Repository e Progetti
