@@ -8,16 +8,12 @@
 
 Mi chiamo Nicolò, sono un **Full Stack Web Developer** con competenze di **UX e UI Design**. In questo profilo GitHub potete trovare tutti i progetti a cui ho lavorato.
 
----
-
 ## 📫 Contatto LinkedIn
 <div>
     <a style="text-decoration:none" href="https://www.linkedin.com/in/nicol%C3%B2-manunta-5203332ba/">
       <img align="center" alt="Nicolò Manunta LinkedIn" width="60px" src="https://github.com/nicomanunta/icon/blob/main/linkedin-color.png" />
     </a>
 </div>
-
----
 
 ## 🔧 Competenze
 
@@ -49,8 +45,6 @@ Mi chiamo Nicolò, sono un **Full Stack Web Developer** con competenze di **UX e
  <img align="center" alt="miro" width="80px" src="https://github.com/nicomanunta/icon/blob/main/miro-color.png" />
  <img align="center" alt="mural" width="140px" src="https://github.com/nicomanunta/icon/blob/main/mural2-color.png" />
 </div>
-
----
 
 ## 📂 Repository e Progetti
 <div>
