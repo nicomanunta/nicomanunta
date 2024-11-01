@@ -15,6 +15,8 @@ Mi chiamo Nicolò, sono un **Full Stack Web Developer** con competenze di **UX e
     </a>
 </div>
 
+<br>
+
 ## 💻 Competenze 
 
 ### - FrontEnd:
