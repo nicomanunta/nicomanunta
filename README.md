@@ -30,8 +30,7 @@ Mi chiamo Nicolò, sono un **Full Stack Web Developer** con competenze di **UX e
  <img align="center" alt="vue" width="60px" src="https://github.com/nicomanunta/icon/blob/main/vuejs-color.png" />
 </div>
 
-<br>
-<br>
+
 
 ### - Backend:
 <div style="display: flex; justify-content: center;">
@@ -40,8 +39,7 @@ Mi chiamo Nicolò, sono un **Full Stack Web Developer** con competenze di **UX e
  <img align="center" alt="mysql" width="60px" src="https://github.com/nicomanunta/icon/blob/main/Mysql.png" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
-<br>
-<br>
+
 
 ### - UX/UI Design:
 <div style="display: flex; justify-content: center;">
@@ -52,8 +50,6 @@ Mi chiamo Nicolò, sono un **Full Stack Web Developer** con competenze di **UX e
  <img align="center" alt="mural" width="140px" src="https://github.com/nicomanunta/icon/blob/main/mural2-color.png" />
 </div>
 
-<br>
-<br>
 
 ## 📂 Repository e Progetti 
 <div>
