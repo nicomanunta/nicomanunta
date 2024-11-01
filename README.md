@@ -31,6 +31,7 @@ Mi chiamo Nicolò, sono un **Full Stack Web Developer** con competenze di **UX e
 </div>
 
 <br>
+
 ### - Backend:
 <div style="display: flex; justify-content: center;">
  <img align="center" alt="php" width="65px" src="https://github.com/nicomanunta/icon/blob/main/php1-color.png" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -39,6 +40,7 @@ Mi chiamo Nicolò, sono un **Full Stack Web Developer** con competenze di **UX e
 </div>
 
 <br>
+
 ### - UX/UI Design:
 <div style="display: flex; justify-content: center;">
  <img align="center" alt="figma" width="65px" src="https://github.com/nicomanunta/icon/blob/main/figma-color.png" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -49,6 +51,7 @@ Mi chiamo Nicolò, sono un **Full Stack Web Developer** con competenze di **UX e
 </div>
 
 <br>
+
 ## 📂 Repository e Progetti 
 <div>
   <a style="text-decoration:none" href="https://github.com/stars/nicomanunta/lists/top-progetti">
