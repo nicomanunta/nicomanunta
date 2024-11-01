@@ -6,35 +6,42 @@
 
 # Benvenuti nel mio profilo GitHub!
 
-Mi chiamo Nicolò, sono un Full Stack Web Developer con competenze di UX e UI Design. In questo profilo GitHub potete trovare tutti i progetti a cui ho lavorato.
+Mi chiamo Nicolò, sono un **Full Stack Web Developer** con competenze di **UX e UI Design**. In questo profilo GitHub potete trovare tutti i progetti a cui ho lavorato.
 
+## 📫 Contatto LinkedIn
 <div>
-  <h3>Contatto LinkedIn</h3>
-  <span>
     <a style="text-decoration:none" href="https://www.linkedin.com/in/nicol%C3%B2-manunta-5203332ba/">
       <img align="center" alt="Nicolò Manunta LinkedIn" width="40px" src="https://github.com/nicomanunta/icon/blob/main/linkedin-color.png" />
     </a>
-  </span>
 </div>
- <h3>Competenze</h3>
- <br>
+## 🔧 Competenze
+### FrontEnd
 <div style="display: flex; justify-content: center;">
- <img align="center" alt="html" width="40px" src="https://github.com/nicomanunta/icon/blob/main/html5.svg" />
- <img align="center" alt="css" width="40px" src="https://github.com/nicomanunta/icon/blob/main/css3-alt.svg" />
- <img align="center" alt="scss" width="40px" src="https://github.com/nicomanunta/icon/blob/main/sass.svg" />
- <img align="center" alt="bootstrap" width="45px" src="https://github.com/nicomanunta/icon/blob/main/bootstrap.svg" />
+ <img align="center" alt="html" width="40px" src="https://github.com/nicomanunta/icon/blob/main/html-color.png" />
+ <img align="center" alt="css" width="40px" src="https://github.com/nicomanunta/icon/blob/main/css-color.png" />
+ <img align="center" alt="scss" width="40px" src="https://github.com/nicomanunta/icon/blob/main/sass-color.png" />
+ <img align="center" alt="bootstrap" width="45px" src="https://github.com/nicomanunta/icon/blob/main/bootstrap-color.png" />
 </div>
 <br>
 <div style="display: flex; justify-content: center;">
- <img align="center" alt="js" width="40px" src="https://github.com/nicomanunta/icon/blob/main/js.svg" />
- <img align="center" alt="vue" width="40px" src="https://github.com/nicomanunta/icon/blob/main/vuejs.svg" />
+ <img align="center" alt="js" width="40px" src="https://github.com/nicomanunta/icon/blob/main/js-color.png" />
+ <img align="center" alt="vue" width="40px" src="https://github.com/nicomanunta/icon/blob/main/vuejs-color.png" />
 </div>
-<br>
+### Backend
 <div style="display: flex; justify-content: center;">
- <img align="center" alt="php" width="45px" src="https://github.com/nicomanunta/icon/blob/main/php.svg" />
- <img align="center" alt="laravel" width="40px" src="https://github.com/nicomanunta/icon/blob/main/laravel.svg" />
+ <img align="center" alt="php" width="45px" src="https://github.com/nicomanunta/icon/blob/main/php1-color.png" />
+ <img align="center" alt="laravel" width="40px" src="https://github.com/nicomanunta/icon/blob/main/laravel-color.png" />
+ <img align="center" alt="mysql" width="40px" src="https://github.com/nicomanunta/icon/blob/main/Mysql.png" />
 </div>
-<br>
+### UX/UI Design
+<div style="display: flex; justify-content: center;">
+ <img align="center" alt="figma" width="45px" src="https://github.com/nicomanunta/icon/blob/main/figma-color.png" />
+ <img align="center" alt="zeplin" width="40px" src="https://github.com/nicomanunta/icon/blob/main/zeplin-color.png" />
+ <img align="center" alt="maze" width="40px" src="https://github.com/nicomanunta/icon/blob/main/maze-color.jpeg" />
+ <img align="center" alt="miro" width="40px" src="https://github.com/nicomanunta/icon/blob/main/miro-color.png" />
+ <img align="center" alt="mural" width="40px" src="https://github.com/nicomanunta/icon/blob/main/mural-color.png" />
+</div>
+## 📂 Repository e Progetti
 <a style="text-decoration:none" href="https://github.com/stars/nicomanunta/lists/top-progetti">
       <img align="center" alt="Nicolò Manunta GitHub" width="40px" src="https://github.com/nicomanunta/icon/blob/main/github.svg" />
 </a>
