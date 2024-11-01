@@ -6,13 +6,13 @@
 
 # Benvenuti nel mio profilo GitHub!
 
-Mi chiamo Nicolò, sono un Junior Full Stack Web Developer. In questo profilo GitHub potete trovare alcuni dei progetti a cui ho lavorato.
+Mi chiamo Nicolò, sono un Full Stack Web Developer con competenze di UX e UI Design. In questo profilo GitHub potete trovare tutti i progetti a cui ho lavorato.
 
 <div>
   <h3>Contatto LinkedIn</h3>
   <span>
     <a style="text-decoration:none" href="https://www.linkedin.com/in/nicol%C3%B2-manunta-5203332ba/">
-      <img align="center" alt="Nicolò Manunta LinkedIn" width="40px" src="https://github.com/nicomanunta/icon/blob/main/linkedin.svg" />
+      <img align="center" alt="Nicolò Manunta LinkedIn" width="40px" src="https://github.com/nicomanunta/icon/blob/main/linkedin-color.png" />
     </a>
   </span>
 </div>
