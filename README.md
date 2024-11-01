@@ -8,6 +8,8 @@
 
 Mi chiamo Nicolò, sono un **Full Stack Web Developer** con competenze di **UX e UI Design**. In questo profilo GitHub potete trovare tutti i progetti a cui ho lavorato.
 
+---
+
 ## 📫 Contatto LinkedIn
 <div>
     <a style="text-decoration:none" href="https://www.linkedin.com/in/nicol%C3%B2-manunta-5203332ba/">
@@ -17,7 +19,7 @@ Mi chiamo Nicolò, sono un **Full Stack Web Developer** con competenze di **UX e
 
 ## 🔧 Competenze
 
-### FrontEnd:
+### -FrontEnd:
 <div style="display: flex; justify-content: center;">
  <img align="center" alt="html"  width="60px" src="https://github.com/nicomanunta/icon/blob/main/html-color.png"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img align="center" alt="css" width="60px" src="https://github.com/nicomanunta/icon/blob/main/css-color.png" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -30,14 +32,14 @@ Mi chiamo Nicolò, sono un **Full Stack Web Developer** con competenze di **UX e
  <img align="center" alt="vue" width="60px" src="https://github.com/nicomanunta/icon/blob/main/vuejs-color.png" />
 </div>
 
-### Backend:
+### -Backend:
 <div style="display: flex; justify-content: center;">
  <img align="center" alt="php" width="65px" src="https://github.com/nicomanunta/icon/blob/main/php1-color.png" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img align="center" alt="laravel" width="60px" src="https://github.com/nicomanunta/icon/blob/main/laravel-color.png" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img align="center" alt="mysql" width="60px" src="https://github.com/nicomanunta/icon/blob/main/Mysql.png" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
-### UX/UI Design:
+### -UX/UI Design:
 <div style="display: flex; justify-content: center;">
  <img align="center" alt="figma" width="65px" src="https://github.com/nicomanunta/icon/blob/main/figma-color.png" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img align="center" alt="zeplin" width="70px" src="https://github.com/nicomanunta/icon/blob/main/zeplin-color.png" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
