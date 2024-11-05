@@ -24,7 +24,7 @@ Mi chiamo Nicolò, sono un **Full Stack Web Developer** con competenze di **UX e
  <img align="center" alt="html"  width="60px" src="https://github.com/nicomanunta/icon/blob/main/html-color.png"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img align="center" alt="css" width="60px" src="https://github.com/nicomanunta/icon/blob/main/css-color.png" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img align="center" alt="scss" width="60px" src="https://github.com/nicomanunta/icon/blob/main/sass-color.png" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <img align="center" alt="bootstrap" width="65px" src="https://github.com/nicomanunta/icon/blob/main/bootstrap-color.png" />
+ <img align="center" alt="bootstrap" width="65px" src="https://github.com/nicomanunta/icon/blob/main/bootstrap-color2.png" />
 </div>
 <br>
 <div style="display: flex; justify-content: center;">
