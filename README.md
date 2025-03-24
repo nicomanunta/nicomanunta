@@ -42,7 +42,7 @@ Mi chiamo Nicolò, sono un **Full Stack Web Developer** con competenze di **UX e
    <img align="center" alt="mysql" width="60px" src="https://github.com/nicomanunta/icon/blob/main/Mysql.png" /> 
 </div>
   <br>
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: start;">
    <img align="center" alt="wordpress" width="95px" src="https://github.com/nicomanunta/icon/blob/main/wordpress.webp" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img align="center" alt="roots" width="65px" src="https://github.com/nicomanunta/icon/blob/main/roots.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img align="center" alt="ddev" width="65px" src="https://github.com/nicomanunta/icon/blob/main/ddev.webp" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
