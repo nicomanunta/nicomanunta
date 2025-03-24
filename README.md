@@ -21,7 +21,7 @@ Mi chiamo Nicolò, sono un **Full Stack Web Developer** con competenze di **UX e
 
 ### - FrontEnd:
 <div style="display: flex; justify-content: center;">
-  &nbsp;&nbsp;&nbsp;&nbsp; <img align="center" alt="html"  width="60px" src="https://github.com/nicomanunta/icon/blob/main/html-color.png"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp; <img align="center" alt="html"  width="60px" src="https://github.com/nicomanunta/icon/blob/main/html-color.png"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img align="center" alt="css" width="60px" src="https://github.com/nicomanunta/icon/blob/main/css-new-logo.png" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img align="center" alt="scss" width="60px" src="https://github.com/nicomanunta/icon/blob/main/sass-color.png" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img align="center" alt="bootstrap" width="65px" src="https://github.com/nicomanunta/icon/blob/main/bootstrap-color2.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -37,7 +37,7 @@ Mi chiamo Nicolò, sono un **Full Stack Web Developer** con competenze di **UX e
 
 ### - Backend:
 <div style="display: flex; justify-content: center;">
-   &nbsp;&nbsp;&nbsp;&nbsp;<img align="center" alt="php" width="65px" src="https://github.com/nicomanunta/icon/blob/main/php1-color.png" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   &nbsp;&nbsp;&nbsp;<img align="center" alt="php" width="65px" src="https://github.com/nicomanunta/icon/blob/main/php1-color.png" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img align="center" alt="laravel" width="60px" src="https://github.com/nicomanunta/icon/blob/main/laravel-color.png" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img align="center" alt="mysql" width="60px" src="https://github.com/nicomanunta/icon/blob/main/Mysql.png" /> 
 </div>
