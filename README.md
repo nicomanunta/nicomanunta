@@ -39,11 +39,11 @@ Mi chiamo Nicolò, sono un **Full Stack Web Developer** con competenze di **UX e
 <div style="display: flex; justify-content: center;">
    <img align="center" alt="php" width="65px" src="https://github.com/nicomanunta/icon/blob/main/php1-color.png" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img align="center" alt="laravel" width="60px" src="https://github.com/nicomanunta/icon/blob/main/laravel-color.png" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img align="center" alt="mysql" width="60px" src="https://github.com/nicomanunta/icon/blob/main/Mysql.png" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img align="center" alt="mysql" width="60px" src="https://github.com/nicomanunta/icon/blob/main/Mysql.png" /> 
 </div>
   <br>
 <div style="display: flex; justify-content: center;">
-   <img align="center" alt="wordpress" width="85px" src="https://github.com/nicomanunta/icon/blob/main/wordpress.webp" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img align="center" alt="wordpress" width="95px" src="https://github.com/nicomanunta/icon/blob/main/wordpress.webp" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img align="center" alt="roots" width="65px" src="https://github.com/nicomanunta/icon/blob/main/roots.png" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img align="center" alt="ddev" width="65px" src="https://github.com/nicomanunta/icon/blob/main/ddev.webp" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <img align="center" alt="docker" width="65px" src="https://github.com/nicomanunta/icon/blob/main/docker.webp" />
